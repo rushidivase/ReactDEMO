@@ -1,0 +1,11 @@
+//this code is return by DEV1
+function App() {
+    return (
+        <div>
+            <h1>Hello, World!</h1>
+            <p>Welcome to my React application.</p>
+        </div>
+    );
+}
+
+export default App;
